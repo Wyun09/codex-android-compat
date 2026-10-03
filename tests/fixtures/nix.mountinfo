@@ -1,0 +1,4 @@
+225 58 147:1 /home/me/tmp/nix-chroot.kejKeJ / rw,relatime - ext4 /dev/sda rw
+283 225 147:1 /home/me/.nix /nix rw,relatime - ext4 /dev/sda rw
+135 283 8:3 / /nix rw,relatime - ext4 /dev/sdb rw
+284 135 147:1 /home/me/.nix /nix rw,relatime - ext4 /dev/sda rw
