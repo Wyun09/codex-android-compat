@@ -1,0 +1,2 @@
+73 1 0:36 /var/lib/system-tmp /tmp rw,relatime - btrfs /dev/nvme0n1p3 rw
+1 0 0:36 /@ / rw,relatime - btrfs /dev/nvme0n1p3 rw
