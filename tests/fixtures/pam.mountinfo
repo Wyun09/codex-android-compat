@@ -1,0 +1,3 @@
+37227 37226 0:52 / /cray/tmp rw,nodev,relatime - tmpfs tmpfs rw
+37229 37226 0:52 /tmp /tmp rw,nodev,relatime - tmpfs tmpfs rw
+37462 37229 0:52 /tmp/.pam_namespace/alice /tmp rw,nodev,relatime - tmpfs tmpfs rw
