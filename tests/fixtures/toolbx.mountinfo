@@ -1,0 +1,2 @@
+40 20 0:47 / /tmp rw,relatime - tmpfs tmpfs rw
+41 20 0:47 / /run/host/tmp rw,relatime - tmpfs tmpfs rw
